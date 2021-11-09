@@ -3,6 +3,7 @@
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
+<img src="https://img.shields.io/badge/Swift-4479A1?style=flat-square&logo=SwiftL&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
 
 
