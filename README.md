@@ -10,3 +10,8 @@
 
 ## 내가 가장 많이 사용하는 언어
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leebumju)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## Wakatime Week Stats
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Leebumju)](https://github.com/anuraghazra/github-readme-stats)
+
