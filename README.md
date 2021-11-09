@@ -13,5 +13,5 @@
 
 
 ## Wakatime Week Stats
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Leebumju)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Leebumju)](https://github.com/Leebumju/github-readme-stats)
 
