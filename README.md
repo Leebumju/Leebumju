@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bumjun</h1>
 <h3 align="center">A passionate iOS developer from Korea</h3>
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+
 
 - I'm going to college 4th year at myoung ji university
 
@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **dlqkawns@naver.com**
 
+
+<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 
 </br>
 <p align="center">
