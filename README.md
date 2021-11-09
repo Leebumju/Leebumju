@@ -4,7 +4,7 @@
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/-C-%23000000?logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Swift-lightgrey?logo=Swift&logoColer=white"/>
+<img src="https://img.shields.io/badge/-Swift-#F05138?logo=Swift&logoColer=white"/>
 <img src="https://img.shields.io/badge/-iOS-%23000000?logo=Apple&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
 
