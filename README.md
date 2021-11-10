@@ -30,8 +30,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leebumju)](https://github.com/anuraghazra/github-readme-stats)
 
-### My Repository
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leebumju&repo=HomegrownStudentRecipe)](https://github.com/Leebumju/HomegrownStudentRecipe)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leebumju)](https://github.com/anuraghazra/github-readme-stats)
