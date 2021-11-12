@@ -13,10 +13,9 @@
 <br>
 <br>
 
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+### Tech Stack 
 
 </br>
-<p align="center">
 <img src="https://img.shields.io/badge/-C-%23000000?logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/-C++-4479A1?style=flat-square&logo=C++&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Swift-%F05138?logo=Swift&logoColer=white"/>
@@ -27,11 +26,11 @@
 <br>
 <br>
 
-<h3 align="center">🛠 Portfolio 🛠</h3>
+### Portfolio
 
 - [포트폴리오](https://github.com/Leebumju/Project-portfolio-NEXTERS) 🔭
 
-<h3 align="center">🛠 Project 🛠</h3>
+### Project
 
 - [자취생 요리 레시피(알뜰요)앱 - iOS](https://github.com/Leebumju/HomegrownStudentRecipe) 🔭
 
