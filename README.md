@@ -2,15 +2,31 @@
 <h3 align="center">A passionate iOS developer from Korea</h3>
 
 
-- I'm going to college 4th year at myoung ji university
+- 🌱 명지대 3학년 2학기 재학중입니다
 
-- I am doing an internship at wantreez music
+- 🌱 현재 원트리즈 뮤직 IT부서 인턴 근무중입니다.
 
-- 🔭 I’m currently working on [HomegrownStudentRecipe](https://github.com/Leebumju/HomegrownStudentRecipe)
+- 🌱 관심분야는 iOS이며, 현재 **Xcode & Swift** 를 공부하고 있습니다.
 
-- 🌱 I’m currently learning **Xcode & Swift**
+- 📫 이메일 : **dlqkawns@naver.com**
 
-- 📫 How to reach me **dlqkawns@naver.com**
+
+<h3 align="center">Project</h3>
+- 자취생 요리 레시피(알뜰요)앱 - iOS [HomegrownStudentRecipe](https://github.com/Leebumju/HomegrownStudentRecipe) 🔭
+
+- Music Player in Boost course - iOS [HomegrownStudentRecipe](https://github.com/Leebumju/HomegrownStudentRecipe) 🔭
+
+- 포트폴리오 [HomegrownStudentRecipe](https://github.com/Leebumju/HomegrownStudentRecipe) 🔭
+
+- 건축잡 기획(원트리즈 뮤직) [HomegrownStudentRecipe](https://github.com/Leebumju/HomegrownStudentRecipe) 🔭
+
+- 자동-수동 양념 제조기(융합창의공학설계) [HomegrownStudentRecipe](https://github.com/Leebumju/HomegrownStudentRecipe) 🔭
+
+- 2048오픈소스 수정 및 재배포 [HomegrownStudentRecipe](https://github.com/Leebumju/HomegrownStudentRecipe) 🔭
+
+- Money Scheduler program [HomegrownStudentRecipe](https://github.com/Leebumju/HomegrownStudentRecipe) 🔭
+
+- 명지대 시간표 앱 - Android [HomegrownStudentRecipe](https://github.com/Leebumju/HomegrownStudentRecipe) 🔭
 
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
