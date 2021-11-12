@@ -8,10 +8,11 @@
 
 - 🌱 관심분야는 iOS이며, 현재 **Xcode & Swift** 를 공부하고 있습니다.
 
-- 📫 이메일 : **dlqkawns@naver.com**
+- 🌱 이메일 : **dlqkawns@naver.com**
 
 
 <h3 align="center">Project</h3>
+
 - 자취생 요리 레시피(알뜰요)앱 - iOS [HomegrownStudentRecipe](https://github.com/Leebumju/HomegrownStudentRecipe) 🔭
 
 - Music Player in Boost course - iOS [HomegrownStudentRecipe](https://github.com/Leebumju/HomegrownStudentRecipe) 🔭
