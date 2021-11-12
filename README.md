@@ -14,7 +14,7 @@
 <br>
 
 ### Tech Stack 
-
+<p align="left"> 
 </br>
 <img src="https://img.shields.io/badge/-C-%23000000?logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/-C++-4479A1?style=flat-square&logo=C++&logoColor=white"/>
