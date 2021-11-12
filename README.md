@@ -10,6 +10,18 @@
 
 - 🌱 이메일 : **dlqkawns@naver.com**
 
+<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+
+</br>
+<p align="center">
+<img src="https://img.shields.io/badge/-C-%23000000?logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/-C++-4479A1?style=flat-square&logo=C++&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Swift-%F05138?logo=Swift&logoColer=white"/>
+<img src="https://img.shields.io/badge/-iOS-%23000000?logo=Apple&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Python-%23000000?logo=Python&logoColor=white"/>
+
+
 
 <h3 align="center">Project</h3>
 
@@ -29,17 +41,6 @@
 
 - 명지대 시간표 앱 - Android [HomegrownStudentRecipe](https://github.com/Leebumju/HomegrownStudentRecipe) 🔭
 
-
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
-
-</br>
-<p align="center">
-<img src="https://img.shields.io/badge/-C-%23000000?logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/-C++-4479A1?style=flat-square&logo=C++&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Swift-%F05138?logo=Swift&logoColer=white"/>
-<img src="https://img.shields.io/badge/-iOS-%23000000?logo=Apple&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Python-%23000000?logo=Python&logoColor=white"/>
 
 
 
