@@ -31,8 +31,6 @@
 
 - [포트폴리오](https://github.com/Leebumju/Project-portfolio-NEXTERS) 🔭
 
-<br>
-
 <h3 align="center">🛠 Project 🛠</h3>
 
 - [자취생 요리 레시피(알뜰요)앱 - iOS](https://github.com/Leebumju/HomegrownStudentRecipe) 🔭
@@ -53,7 +51,7 @@
 
 
 
-
+<br><br>
 ### Statistics
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leebumju)](https://github.com/anuraghazra/github-readme-stats)
