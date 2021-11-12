@@ -29,7 +29,7 @@
 
 <h3 align="center">🛠 Portfolio 🛠</h3>
 
-- 포트폴리오 (https://github.com/Leebumju/Project-portfolio-NEXTERS) 🔭
+- [포트폴리오](https://github.com/Leebumju/Project-portfolio-NEXTERS) 🔭
 
 <br>
 
