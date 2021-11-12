@@ -27,28 +27,29 @@
 <br>
 <br>
 
-<h3 align="center">🛠 Project 🛠</h3>
+<h3 align="center">🛠 Portfolio 🛠</h3>
 
-- 포트폴리오 [HomegrownStudentRecipe](https://github.com/Leebumju/HomegrownStudentRecipe) 🔭
+- 포트폴리오 [HomegrownStudentRecipe](https://github.com/Leebumju/Project-portfolio-NEXTERS) 🔭
 
-<br>
 <br>
 
 <h3 align="center">🛠 Project 🛠</h3>
 
 - 자취생 요리 레시피(알뜰요)앱 - iOS [HomegrownStudentRecipe](https://github.com/Leebumju/HomegrownStudentRecipe) 🔭
 
-- Music Player in Boost course - iOS [HomegrownStudentRecipe](https://github.com/Leebumju/HomegrownStudentRecipe) 🔭
+- Music Player in Boost course - iOS [HomegrownStudentRecipe](https://github.com/Leebumju/MusicPlayer) 🔭
 
-- 건축잡 기획(원트리즈 뮤직) [HomegrownStudentRecipe](https://github.com/Leebumju/HomegrownStudentRecipe) 🔭
+- 건축잡 기획(원트리즈 뮤직) [HomegrownStudentRecipe](https://github.com/Leebumju/GeonchugJob_Planning) 🔭
 
-- 자동-수동 양념 제조기(융합창의공학설계) [HomegrownStudentRecipe](https://github.com/Leebumju/HomegrownStudentRecipe) 🔭
+- 원피스 현상금 앱 - iOS [HomegrownStudentRecipe](https://github.com/Leebumju/MyBountyList) 🔭
 
-- 2048오픈소스 수정 및 재배포 [HomegrownStudentRecipe](https://github.com/Leebumju/HomegrownStudentRecipe) 🔭
+- 자동-수동 양념 제조기(융합창의공학설계) [HomegrownStudentRecipe](https://github.com/Leebumju/Convergence-Creative-Engineering-Design) 🔭
 
-- Money Scheduler program [HomegrownStudentRecipe](https://github.com/Leebumju/HomegrownStudentRecipe) 🔭
+- 2048오픈소스 수정 및 재배포 [HomegrownStudentRecipe](https://github.com/Leebumju/opensource_2048_python_modify) 🔭
 
-- 명지대 시간표 앱 - Android [HomegrownStudentRecipe](https://github.com/Leebumju/HomegrownStudentRecipe) 🔭
+- Money Scheduler program [HomegrownStudentRecipe](https://github.com/Leebumju/money-scheduler) 🔭
+
+- 명지대 시간표 앱 - Android [HomegrownStudentRecipe](https://github.com/Leebumju/-Myongji-Application-android) 🔭
 
 
 
