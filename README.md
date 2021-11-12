@@ -10,6 +10,9 @@
 
 - 🌱 이메일 : **dlqkawns@naver.com**
 
+<br>
+<br>
+
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 
 </br>
@@ -21,15 +24,21 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Python-%23000000?logo=Python&logoColor=white"/>
 
+<br>
+<br>
 
+<h3 align="center">🛠 Project 🛠</h3>
 
-<h3 align="center">Project</h3>
+- 포트폴리오 [HomegrownStudentRecipe](https://github.com/Leebumju/HomegrownStudentRecipe) 🔭
+
+<br>
+<br>
+
+<h3 align="center">🛠 Project 🛠</h3>
 
 - 자취생 요리 레시피(알뜰요)앱 - iOS [HomegrownStudentRecipe](https://github.com/Leebumju/HomegrownStudentRecipe) 🔭
 
 - Music Player in Boost course - iOS [HomegrownStudentRecipe](https://github.com/Leebumju/HomegrownStudentRecipe) 🔭
-
-- 포트폴리오 [HomegrownStudentRecipe](https://github.com/Leebumju/HomegrownStudentRecipe) 🔭
 
 - 건축잡 기획(원트리즈 뮤직) [HomegrownStudentRecipe](https://github.com/Leebumju/HomegrownStudentRecipe) 🔭
 
