@@ -27,26 +27,26 @@
 
 ### Portfolio
 
-- [포트폴리오](https://github.com/Leebumju/Project-portfolio-NEXTERS) 🔭
+🔭 [포트폴리오](https://github.com/Leebumju/Project-portfolio-NEXTERS) 
 <br>
 
 ### Project
 
-- [자취생 요리 레시피(알뜰요)앱 - iOS](https://github.com/Leebumju/HomegrownStudentRecipe) 🔭
+🔭 [자취생 요리 레시피(알뜰요)앱 - iOS](https://github.com/Leebumju/HomegrownStudentRecipe)
 
-- [Music Player in Boost course - iOS](https://github.com/Leebumju/MusicPlayer) 🔭
+🔭 [Music Player in Boost course - iOS](https://github.com/Leebumju/MusicPlayer)
 
-- [건축잡 기획(원트리즈 뮤직)](https://github.com/Leebumju/GeonchugJob_Planning) 🔭
+🔭 [건축잡 기획(원트리즈 뮤직)](https://github.com/Leebumju/GeonchugJob_Planning) 
 
-- [원피스 현상금 앱 - iOS](https://github.com/Leebumju/MyBountyList) 🔭
+🔭 [원피스 현상금 앱 - iOS](https://github.com/Leebumju/MyBountyList) 
 
-- [자동-수동 양념 제조기(융합창의공학설계)](https://github.com/Leebumju/Convergence-Creative-Engineering-Design) 🔭
+🔭 [자동-수동 양념 제조기(융합창의공학설계)](https://github.com/Leebumju/Convergence-Creative-Engineering-Design) 
 
-- [2048오픈소스 수정 및 재배포](https://github.com/Leebumju/opensource_2048_python_modify) 🔭
+🔭 [2048오픈소스 수정 및 재배포](https://github.com/Leebumju/opensource_2048_python_modify) 
 
-- [Money Scheduler program](https://github.com/Leebumju/money-scheduler) 🔭
+🔭 [Money Scheduler program](https://github.com/Leebumju/money-scheduler)
 
-- [명지대 시간표 앱 - Android](https://github.com/Leebumju/-Myongji-Application-android) 🔭
+🔭 [명지대 시간표 앱 - Android](https://github.com/Leebumju/-Myongji-Application-android) 
 
 
 
