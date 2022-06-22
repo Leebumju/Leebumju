@@ -30,8 +30,8 @@
 
 
 🔭 [Music Player in Boost course - iOS](https://github.com/Leebumju/MusicPlayer)
-🔭 [TeamOne Project - Android](https://github.com/Leebumju/MusicPlayer)
-🔭 [bowlingSam Project - Android](https://github.com/Leebumju/MusicPlayer)
+🔭 [TeamOne Project] - Android](https://github.com/Leebumju/MusicPlayer)
+🔭 [bowlingSam Project] - Android](https://github.com/Leebumju/MusicPlayer)
 
 
 
