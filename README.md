@@ -32,7 +32,7 @@
  <br>
 🔭 [TeamOne Project - Android](https://github.com/Leebumju/TeamOne-FrontEnd)
  <br>
-🔭 [bowlingSam Project - Android](https://github.com/Leebumju/testDB))
+🔭 [bowlingSam Project - Android](https://github.com/Leebumju/testDB)
 
 
 
