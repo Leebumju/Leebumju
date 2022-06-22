@@ -28,12 +28,12 @@
 
 ### Project
 
-
+https://github.com/Leebumju/MusicPlayer
 🔭 [Music Player in Boost course - iOS](https://github.com/Leebumju/MusicPlayer)
  <br>
-🔭 [TeamOne Project] - Android]()
+🔭 [TeamOne Project - Android](https://github.com/Leebumju/TeamOne-FrontEnd)
  <br>
-🔭 [bowlingSam Project - Android]([https://github.com/Leebumju/MusicPlayer](https://github.com/Leebumju/testDB))
+🔭 [bowlingSam Project - Android](https://github.com/Leebumju/testDB))
 
 
 
