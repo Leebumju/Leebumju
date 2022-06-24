@@ -33,7 +33,9 @@
 
 ### Project
 
-🔭 [TeamOne Project - Android](https://github.com/Leebumju/TeamOne-FrontEnd)
+🔭 [TeamOne Project Front - Android](https://github.com/Leebumju/TeamOne-FrontEnd)
+ <br>
+🔭 [TeamOne Project back - Android](https://github.com/Leebumju/TeamOne-BackEnd)
  <br>
 🔭 [bowlingSam Project - Android](https://github.com/Leebumju/testDB)
 <br>
