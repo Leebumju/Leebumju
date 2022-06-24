@@ -2,7 +2,7 @@
 <h3 align="center">A passionate iOS developer from Korea</h3>
 
 
- 🌱 명지대 4학년 1학기 재학중입니다
+ 🌱 명지대 4학년 2학기 재학중입니다
 
  🌱 원트리즈 뮤직 IT부서 인턴 근무(2021.09 ~ 2021.12)
 
@@ -33,12 +33,25 @@
 
 ### Project
 
-🔭 [Music Player in Boost course - iOS](https://github.com/Leebumju/MusicPlayer)
- <br>
 🔭 [TeamOne Project - Android](https://github.com/Leebumju/TeamOne-FrontEnd)
  <br>
 🔭 [bowlingSam Project - Android](https://github.com/Leebumju/testDB)
-
+<br>
+ 
+### Toy Project
+ 
+🔭 [MyBountyList - iOS](https://github.com/Leebumju/MyBountyList)
+<br>
+🔭 [MusicPlayer - iOS](https://github.com/Leebumju/MusicPlayer) 
+<br>
+🔭 [HomegrownStudentRecipe - iOS](https://github.com/Leebumju/HomegrownStudentRecipe) 
+<br>
+🔭 [Signup - iOS](https://github.com/Leebumju/SignUp) 
+<br>
+🔭 [WeatherToday - iOS](https://github.com/Leebumju/WeatherToday) 
+<br>
+🔭 [MovieRate - iOS](https://github.com/Leebumju/MovieRate) 
+ 
 <br>
  
 ### Yagom Starter Camp
