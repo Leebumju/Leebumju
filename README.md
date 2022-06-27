@@ -20,11 +20,6 @@
 
 <br>
 <br>
-
-### Portfolio
-
-🔭 [포트폴리오](https://github.com/Leebumju/Portfolio) 
-<br>
  
 ### Working Project
 
