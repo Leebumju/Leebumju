@@ -35,6 +35,11 @@
 🔭 [bowlingSam Project - Android](https://github.com/Leebumju/testDB)
 <br>
  
+### Planning Project - Wantreez Music Intern
+
+🔭 [GeonchugJob_Planning](https://github.com/Leebumju/GeonchugJob_Planning)
+ <br>
+ 
 ### Toy Project
  
 🔭 [MyBountyList - iOS](https://github.com/Leebumju/MyBountyList)
