@@ -9,6 +9,8 @@
  🌱 관심분야는 iOS이며, 현재 **Xcode & Swift** 를 공부하고 있습니다.
 
  🌱 이메일 : **dlqkawnss@gmail.com**
+ 
+ 🌱 블로그 : **https://bamtori.tistory.com/**
 
 <br>
 
