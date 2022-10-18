@@ -23,13 +23,9 @@
 <br>
 <br>
  
-### Working Project
-
-🔭 [Flooming - iOS](https://github.com/Leebumju/Flooming-iOS) 
-<br>
 
 ### Project
-
+🔭 [Flooming - iOS](https://github.com/Leebumju/Flooming-iOS)
 🔭 [TeamOne Project Front - Android](https://github.com/Leebumju/TeamOne-FrontEnd)
  <br>
 🔭 [TeamOne Project back - Android](https://github.com/Leebumju/TeamOne-BackEnd)
