@@ -11,9 +11,11 @@
  🌱 이메일 : **dlqkawnss@gmail.com**
  
  🌱 블로그 : **https://bamtori.tistory.com/**
-
 <br>
 
+### Portfolio
+https://github.com/Leebumju/Portfolio
+<br>
 
 ### Tech Stack 
 <p align="left"> 
