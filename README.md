@@ -24,7 +24,9 @@ https://github.com/Leebumju/Portfolio
 
 <br>
 <br>
- 
+
+### Current working project
+🔭 [택배조회서비스 - iOS with SwiftUI] https://github.com/Leebumju/PackageService
 
 ### Project
 🔭 [Flooming - iOS](https://github.com/Leebumju/Flooming-iOS)
@@ -36,7 +38,7 @@ https://github.com/Leebumju/Portfolio
 🔭 [bowlingSam Project - Android](https://github.com/Leebumju/testDB)
 <br>
  
-### Planning Project - Wantreez Music Intern
+### Intern Project - Wantreez Music Intern
 
 🔭 [GeonchugJob_Planning](https://github.com/Leebumju/GeonchugJob_Planning)
  <br>
