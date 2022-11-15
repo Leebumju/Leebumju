@@ -26,7 +26,7 @@ https://github.com/Leebumju/Portfolio
 <br>
 
 ### Current working project
-🔭 [택배조회서비스 - iOS with SwiftUI] https://github.com/Leebumju/PackageService
+🔭 [택배조회서비스 - iOS with SwiftUI] (https://github.com/Leebumju/PackageService)
 
 ### Project
 🔭 [Flooming - iOS](https://github.com/Leebumju/Flooming-iOS)
