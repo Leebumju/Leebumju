@@ -11,6 +11,8 @@
  🌱 이메일 : **dlqkawnss@gmail.com**
  
  🌱 블로그 : **https://bamtori.tistory.com/**
+ 
+ 🌱 Flooming 앱스토어 출시 : https://apps.apple.com/lk/app/flooming/id1642471118?platform=iphone
 <br>
 
 ### Portfolio
