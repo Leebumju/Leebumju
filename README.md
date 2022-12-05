@@ -15,8 +15,11 @@
  🌱 Flooming 앱스토어 출시 : https://apps.apple.com/lk/app/flooming/id1642471118?platform=iphone
 <br>
 
+### resume
+
+<br>
 ### Portfolio
-https://github.com/Leebumju/Portfolio
+https://www.notion.so/b9586847eade43e6b89eec9bb225e8b2
 <br>
 
 ### Tech Stack 
