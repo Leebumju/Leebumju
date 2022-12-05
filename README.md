@@ -18,6 +18,7 @@
 ### resume
 
 <br>
+
 ### Portfolio
 https://www.notion.so/b9586847eade43e6b89eec9bb225e8b2
 <br>
