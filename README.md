@@ -15,7 +15,7 @@
  🌱 Flooming 앱스토어 출시 : https://apps.apple.com/lk/app/flooming/id1642471118?platform=iphone
 <br>
 
-### resume
+### Resume
 
 <br>
 
