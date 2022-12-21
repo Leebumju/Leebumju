@@ -29,7 +29,7 @@ https://www.notion.so/b9586847eade43e6b89eec9bb225e8b2
 <br>
 
 ### Current working project
-🔭 [택배조회서비스 - iOS with SwiftUI](https://github.com/Leebumju/PackageService)
+🔭 [택배조회서비스 - iOS with SwiftUI]([https://github.com/Leebumju/PackageService](https://github.com/PackService/PackService))
 
 ### Project
 🔭 [Flooming - iOS](https://github.com/Leebumju/Flooming-iOS)
