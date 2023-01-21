@@ -2,7 +2,7 @@
 <h3 align="center">A passionate iOS developer from Korea</h3>
 
 
- 🌱 명지대 컴퓨터공학과 4학년 2학기 재학중입니다
+ 🌱 명지대 컴퓨터공학과 졸업
 
  🌱 원트리즈 뮤직 IT부서 인턴 근무(2021.09 ~ 2021.12)
 
