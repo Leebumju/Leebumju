@@ -12,7 +12,6 @@
  
  🌱 블로그 : **https://bamtori.tistory.com/**
  
- 🌱 Flooming 앱스토어 출시 : https://apps.apple.com/lk/app/flooming/id1642471118?platform=iphone
 <br>
 
 
@@ -28,11 +27,12 @@ https://www.notion.so/b9586847eade43e6b89eec9bb225e8b2
 <br>
 <br>
 
-### Current working project
-🔭 [택배조회서비스 - iOS with SwiftUI](https://github.com/PackService/PackService)
 
 ### Project
-🔭 [Flooming - iOS](https://github.com/Leebumju/Flooming-iOS)
+
+🔭 [쉽고(ShipGo) - iOS with SwiftUI](https://github.com/PackService/PackService)
+ <br>
+🔭 [Flooming - iOS with StoryBoard](https://github.com/Leebumju/Flooming-iOS)
  <br>
 🔭 [TeamOne Project Front - Android](https://github.com/Leebumju/TeamOne-FrontEnd)
  <br>
