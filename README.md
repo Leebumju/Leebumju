@@ -73,10 +73,8 @@ https://www.notion.so/b9586847eade43e6b89eec9bb225e8b2
 🔭 [swift starter week4](https://github.com/Leebumju/swift-starter-week4)
 <br>
 🔭 [swift starter week5](https://github.com/Leebumju/swift-starter-week5)
-
-
-
-<br><br>
+<br>
+ 
 ### Statistics
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leebumju)](https://github.com/anuraghazra/github-readme-stats)
