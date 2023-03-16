@@ -16,7 +16,8 @@
 
 
 ### Portfolio
-https://www.notion.so/b9586847eade43e6b89eec9bb225e8b2
+https://www.notion.so/leebumjun/6de0e83293944ad7a16a41e6629ca198
+https://www.notion.so/leebumjun/b9586847eade43e6b89eec9bb225e8b2
 <br>
 
 ### Tech Stack 
