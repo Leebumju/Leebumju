@@ -15,8 +15,11 @@
 <br>
 
 
-### Portfolio
+### Resume
 https://www.notion.so/leebumjun/6de0e83293944ad7a16a41e6629ca198
+<br>
+
+### Portfolio
 https://www.notion.so/leebumjun/b9586847eade43e6b89eec9bb225e8b2
 <br>
 
