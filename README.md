@@ -28,7 +28,7 @@ https://www.notion.so/leebumjun/b9586847eade43e6b89eec9bb225e8b2
 
 ### Project
 
-🔭 [쉽고(ShipGo) - UIKit+Combine+CleanArchitecture+MVVM]([https://github.com/PackService/PackService](https://github.com/PackService/CleanArchitecture_ShipGo/tree/feat/coordinator))
+🔭 [쉽고(ShipGo) - UIKit+Combine+CleanArchitecture+MVVM]([https://github.com/PackService/PackService](https://github.com/PackService/CleanArchitecture_ShipGo/tree/feat/coordinator)
  <br>
 🔭 [쉽고(ShipGo) - SwiftUI+Combine+MVVM](https://github.com/PackService/PackService)
  <br>
