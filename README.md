@@ -2,12 +2,6 @@
 <h3 align="center">A passionate iOS developer from Korea</h3>
 
 
- 🌱 명지대 컴퓨터공학과 졸업
-
- 🌱 원트리즈 뮤직 IT부서 인턴 근무(2021.09 ~ 2021.12)
-
- 🌱 관심분야는 iOS이며, 현재 **Xcode & Swift** 를 공부하고 있습니다.
-
  🌱 이메일 : **dlqkawnss@gmail.com**
  
  🌱 블로그 : **https://bamtori.tistory.com/**
@@ -34,7 +28,9 @@ https://www.notion.so/leebumjun/b9586847eade43e6b89eec9bb225e8b2
 
 ### Project
 
-🔭 [쉽고(ShipGo) - iOS with SwiftUI](https://github.com/PackService/PackService)
+🔭 [쉽고(ShipGo) - UIKit+Combine+CleanArchitecture+MVVM]([https://github.com/PackService/PackService](https://github.com/PackService/CleanArchitecture_ShipGo/tree/feat/coordinator))
+ <br>
+🔭 [쉽고(ShipGo) - SwiftUI+Combine+MVVM](https://github.com/PackService/PackService)
  <br>
 🔭 [Flooming - iOS with StoryBoard](https://github.com/Leebumju/Flooming-iOS)
  <br>
