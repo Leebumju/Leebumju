@@ -49,35 +49,7 @@ https://www.notion.so/leebumjun/b9586847eade43e6b89eec9bb225e8b2
 🔭 [GeonchugJob_Planning](https://github.com/Leebumju/GeonchugJob_Planning)
  <br>
  
-### Toy Project
- 
-🔭 [MyBountyList - iOS](https://github.com/Leebumju/MyBountyList)
-<br>
-🔭 [MusicPlayer - iOS](https://github.com/Leebumju/MusicPlayer) 
-<br>
-🔭 [HomegrownStudentRecipe - iOS](https://github.com/Leebumju/HomegrownStudentRecipe) 
-<br>
-🔭 [Signup - iOS](https://github.com/Leebumju/SignUp) 
-<br>
-🔭 [WeatherToday - iOS](https://github.com/Leebumju/WeatherToday) 
-<br>
-🔭 [MovieRate - iOS](https://github.com/Leebumju/MovieRate) 
- 
-<br>
- 
-### Yagom Starter Camp
- 
-🔭 [swift starter week1](https://github.com/Leebumju/swift-starter-week1)
-<br>
-🔭 [swift starter week2](https://github.com/Leebumju/swift-starter-week2)
-<br>
-🔭 [swift starter week3](https://github.com/Leebumju/swift-starter-week3)
-<br>
-🔭 [swift starter week4](https://github.com/Leebumju/swift-starter-week4)
-<br>
-🔭 [swift starter week5](https://github.com/Leebumju/swift-starter-week5)
-<br>
- 
+
 ### Statistics
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leebumju)](https://github.com/anuraghazra/github-readme-stats)
