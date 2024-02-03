@@ -8,3 +8,5 @@
  
 <br>
 
+### career
+- UfintechHub iOS Developer (2023.04 ~)
