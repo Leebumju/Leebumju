@@ -2,9 +2,9 @@
 <h3 align="center">A passionate iOS developer from Korea</h3>
 
 
- 🌱 이메일 : **dlqkawnss@gmail.com**
+ 🌱 email : **dlqkawnss@gmail.com**
  
- 🌱 블로그 : **https://bamtori.tistory.com/**
+ 🌱 blog : **https://bamtori.tistory.com/**
  
 <br>
 
